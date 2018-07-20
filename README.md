@@ -12,8 +12,9 @@ There are currently no run instructions
 
 ### Course Content
 
-| Week 1 | Course Intro                 |   |   |   |
+| Weeks  | Description                  |   |   |   |
 |--------|------------------------------|---|---|---|
+| Week 1 | Course Intro                 |   |   |   |
 | Week 2 | Git and Github               |   |   |   |
 | Week 3 | NodeJS, ExpressJS and jQuery |   |   |   |
 |        |                              |   |   |   |
