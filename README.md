@@ -1,5 +1,4 @@
-My First Git: 3813ICT
-#####################
+# My First Git: 3813ICT
 
 ### This is my project hub
 
