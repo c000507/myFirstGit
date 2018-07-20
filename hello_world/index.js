@@ -9,6 +9,7 @@ if (badWord.indexOf(veryBadWord) >= 0) {
 
 let mistype = "Spwlling";
 console.log("Hello world");
+console.log(5+10);
 console.log(myString);
 console.log(badWord);
 console.log(mistype);
