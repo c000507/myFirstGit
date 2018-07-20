@@ -1,18 +1,16 @@
-My First Git: 3813ICT
+My First git: 3813ICT
 #####################
 
-### This is my project hub
+###This is my first github repo for 3813ICT
 
-### Install Instructions
 
-git cline https://github.com/c000507/myFirstGit.git
+###Install instructions
+git clone https://github.com/c000507/myFirstGit.git
 
-### Run Instructions
+###Run instructions
+There are cuurently no run instructions
 
-There are currently no run instructions
-
-### Course Content
-
+###Course Content
 | Week 1 | Course Intro                 |   |   |   |
 |--------|------------------------------|---|---|---|
 | Week 2 | Git and Github               |   |   |   |
